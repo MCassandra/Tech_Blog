@@ -1,0 +1,33 @@
+
+body {
+  background-image: url("https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.kcrw.com%2Fnews%2Fshows%2Fpress-play-with-madeleine-brand%2Fgop-coronavirus-climate-change-science-race-music%2F%40%40images%2Frectangular_image%2Fpage-header%3Fv%3D1620865818.85");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+}
+
+header, .project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+.no-button {
+  background: wheat;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #a31f42;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.no-button:hover {
+  color: #065b83;
+  text-decoration: underline;
+}
+
+.dollar-amount {
+  color: #056605;
+  font-weight: bold;
+  margin-left: -5px;
+}
