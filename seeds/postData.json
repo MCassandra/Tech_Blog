@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": 1,
+        "band_id":3,
+        "post": "so glad Nsync is coming back, cant wait to see them next week!"
+    },
+    {
+        "user_id": 2,
+        "band_id":2,
+        "post": "We need a My Chemical Romance reunion"
+    },
+    {
+        "user_id": 3,
+        "band_id":1,
+        "post": "Mariah Carey's Christmas album is undefeated!"
+    }
+    
+  ]
