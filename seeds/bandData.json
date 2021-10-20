@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mariah Carey",
+    "genre": "Pop",
+    "album_names": "Butterfly, Emotions, Merry Christmas"
+  },
+  {
+    "name": "My Chemical Romance",
+    "genre": "Rock, Alternative/Indie",
+    "album_names": "The Black Parade"
+  },
+  {
+    "name": "Nsync",
+    "genre": "Pop, dance",
+    "album_names": "No Strings Attached, Celebrity, The Winter Album"
+  }
+]
